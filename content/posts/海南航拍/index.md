@@ -1,6 +1,8 @@
----  
-share: true  
----  
++++
+title = '海南航拍'
+date = 2024-07-27T17:30:57+08:00
+draft = true
++++
   
 ![Pasted image 20240727162631.png](./assets/Pasted%20image%2020240727162631.png)  
 ![Pasted image 20240727162642.png](./assets/Pasted%20image%2020240727162642.png)  
