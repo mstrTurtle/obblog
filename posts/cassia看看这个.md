@@ -1,6 +1,10 @@
 ---  
 share: true  
 ---  
-随便分享一个小文件  
+这是obsidian的enveloppe分享插件。  
+  
+能把ob的笔记部分地推到github仓库里（以MD形式）  
+  
+我在这里随便分享一个小文件，是微信截图随手截得。  
   
 ![xxx](./xxx.png)
