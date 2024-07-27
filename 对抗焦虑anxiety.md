@@ -2,9 +2,13 @@
 share: true  
 ---  
   
+# 定义  
+  
 看看其实是焦虑。  
   
-![Pasted image 20240727230414.png](./CASSIA/_assets/Pasted%20image%2020240727230414.png)  
+![Pasted image 20240727230414.png](./2.CASSIA/_assets/Pasted%20image%2020240727230414.png)  
+  
+# 如何对抗  
   
 https://www.szlh.gov.cn/zwfw/yljk/jkkp/content/post_10163267.html  
   
@@ -20,4 +24,7 @@ https://www.szlh.gov.cn/zwfw/yljk/jkkp/content/post_10163267.html
   
 **3、摸摸鱼**  
   
-法国科学家Mathias Pessiglione研究发现，思考时间越长，大脑中谷氨酸的含量也会逐渐增加，而当谷氨酸累积到大脑规定阈值时，大脑就会提高外侧前额叶的激活成本，让人变得疲惫、难以集中精神。简单来说，就是工作时适当“摸鱼”有利于大脑排毒。要想避免或减轻“职业倦怠”症状的朋友们，这一招可以用起来啦。
+法国科学家Mathias Pessiglione研究发现，思考时间越长，大脑中谷氨酸的含量也会逐渐增加，而当谷氨酸累积到大脑规定阈值时，大脑就会提高外侧前额叶的激活成本，让人变得疲惫、难以集中精神。简单来说，就是工作时适当“摸鱼”有利于大脑排毒。要想避免或减轻“职业倦怠”症状的朋友们，这一招可以用起来啦。  
+  
+**主要是摸鱼。**  
+  
